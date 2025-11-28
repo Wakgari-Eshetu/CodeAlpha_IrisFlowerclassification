@@ -1,0 +1,150 @@
+🌱 Phase 1 — Data Collection & Loading (Data Scientist)
+
+Collect the Iris dataset (iris.csv)
+
+Load it using your DataLoader class
+
+Inspect data with df.head(), df.info(), df.describe()
+
+✅ Result: You have the dataset ready to work with
+
+🌸 Phase 2 — Data Cleaning & Preprocessing (Data Scientist)
+
+Check for missing values or anomalies
+
+Encode labels if necessary (LabelEncoder)
+
+Split dataset into features (X) and target (y)
+
+Use Preprocessor class for train-test split
+
+✅ Result: Clean data ready for ML
+
+🌼 Phase 3 — Exploratory Data Analysis (Data Scientist)
+
+Visualize sepal vs petal measurements
+
+Plot species distribution
+
+Pairplots, histograms, scatter plots
+
+Identify patterns for feature importance
+
+✅ Result: Insights on what drives species prediction
+
+🌷 Phase 4 — Model Building (AI/ML Engineer)
+
+Choose ML models (Random Forest, SVM, KNN)
+
+Use IrisModel class to train models on training data
+
+Tune hyperparameters (optional)
+
+✅ Result: Trained model(s) ready for evaluation
+
+🌻 Phase 5 — Model Evaluation (Data Scientist & AI/ML Engineer)
+
+Evaluate accuracy on test set
+
+Confusion matrix, classification report
+
+Compare different models if multiple are trained
+
+✅ Result: Best performing model identified
+
+🌺 Phase 6 — Model Saving & Deployment (AI/ML Engineer)
+
+Save model as .pkl using joblib
+
+Load model in Predictor class for inference
+
+Integrate with Streamlit app
+
+✅ Result: Model ready for real-time user predictions
+
+🌹 Phase 7 — Interactive User Interface (Data Scientist & AI/ML Engineer)
+
+Use Streamlit sliders / number inputs for measurements
+
+Show predicted species immediately
+
+Optionally display prediction probabilities or charts
+
+Allow batch CSV upload for multiple flowers
+
+✅ Result: Interactive, user-friendly ML application
+
+🌼 Phase 8 — Reporting & Insights (Data Scientist)
+
+Display visualizations and stats in Streamlit app
+
+Show model performance metrics to user
+
+Document workflow and explain OOP design
+
+✅ Result: Complete ML project ready for portfolio
+
+Optional Advanced Steps
+
+Multiple models selection in Streamlit
+
+Logging predictions for analysis
+
+Deploy app on Streamlit Cloud or Heroku
+
+Retrain model with new data
+-===============-===================-=================================
+
+1️⃣ Data Scientist Tasks
+
+Data collection
+
+Data cleaning & preprocessing
+
+Exploratory data analysis (EDA)
+
+Feature engineering
+
+Statistical analysis
+
+Data visualization
+
+Building predictive models
+
+Model evaluation & validation
+
+Reporting insights to stakeholders
+
+Designing dashboards
+
+Creating reproducible workflows
+
+Communicating findings to non-technical audiences
+
+Experimentation & hypothesis testing
+
+Collaborating with engineers & business teams
+
+2️⃣ AI/ML Engineer Tasks for Iris Project
+
+Implement ML models (Random Forest, SVM, etc.)
+
+Train and optimize models
+
+Save/load trained models (.pkl)
+
+Build APIs or apps to serve models (Streamlit, Flask)
+
+Handle input validation and preprocessing
+
+Deploy models in production
+
+Monitor model performance
+
+Automate predictions (batch or real-time)
+
+Version control for models
+
+Integrate models with UI/UX
+
+Performance optimization & scaling
